@@ -24,7 +24,7 @@ setup(
         #'gammatone @ git+https://github.com/detly/gammatone',
         'pypesq @ git+https://github.com/vBaiCai/python-pesq',
         'srmrpy @ git+https://github.com/jfsantos/SRMRpy',
-        'pesq @ git+https://github.com/ludlows/python-pesq',
+        'pesq @ git+https://github.com/ludlows/PESQ/tree/v0.0.4',
     ],
     include_package_data=True
 )
